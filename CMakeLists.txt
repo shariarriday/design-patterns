@@ -8,3 +8,4 @@ project ("Design-Pattern")
 # Include sub-projects.
 add_subdirectory ("Creational/FactoryMethod")
 add_subdirectory ("Creational/AbstractFactoryMethod")
+add_subdirectory ("Creational/Singleton")
